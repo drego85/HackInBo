@@ -86,7 +86,7 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - Come to the Dark Side, we have Apps! (Federico Maggi)
 - CopperDroid: On the Reconstruction of Android Malware Behaviors (Lorenzo Cavallaro)
 - Reverse Engineering of a Commercial Spyware for iOS and Android (Marco Grassi)
-- Pentesting Android Applications with BackBox 4 (Raffaele Forte) - Slide Assenti
+- Pentesting Android Applications with BackBox 4 (Raffaele Forte)
 - iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin)
 - Little PIN, little PIN, let me in! (Davide Gabrini): https://prezi.com/12lh3fzcqr3l/little-pin-little-pin-let-me-in/
 - Tavola Rotonda a cui partecipa Sergio Russo Vice Questore Aggiunto Compartimento Polizia Postale e delle Comunicazioni per l’Emilia Romagna
