@@ -1,14 +1,13 @@
 # HackInBo
 
-Collection of Slides, Programs and Videos of HackInBo
+Unofficial Collection of Slides, Programs and Videos of HackInBo
+
+
+### Work in Progres….
 
 
 
-Work in Progres….
-
-
-
-#### Nona Edizione 10-10-2017
+#### Nona Edizione 14-10-2017
 
 - WannaCry: Il Venerdì Nero (Gianni Amato)
 - Advanced mobile penetration testing with Brida (Federico Dotta)
@@ -19,7 +18,7 @@ Work in Progres….
 - Tavola rotonda a cui partecipano Francesca Bosco e Pierluigi Perri
 - Moderatrice dell'intera giornata Yvette Agostini
 
-#### Ottiva Edizione 06-05-2017 - LAB Edition
+#### Ottava Edizione 06-05-2017 - LAB Edition
 
 - L'evoluzione del SOC di un'infrastruttura critica (Giovanni Mellini)
 - Making vulnerability mining better than "ALLOC[A-Z0-9_]*\s*\([^,]*,[^;]*[*+-][^>][^;]*\)\s*;” (Valerio Costamagna)
@@ -34,7 +33,7 @@ Work in Progres….
 
 #### Settima Edizione 29-10-2016
 
-- Miti, errori e credenze popolari dietro WAPT e code review (Paolo Perego)
+- Cosa c'è che non va? Miti, errori e credenze popolari dietro WAPT (Paolo Perego)
 - Make DKOM Attacks Great Again (Mariano Graziano)
 - Data Centric Security and Data Protection (Manuela Cianfrone)
 - Catch me if you can (Angelo Dall'Aera)
@@ -51,6 +50,7 @@ Work in Progres….
 - Gestione degli incidenti informatici (Davide Dante Del Vecchio)
 - Client-side WarGames (Michele Orrù)
 - Le mille e una notte (Claudio Guarnieri)
+- A Brief Introduction to Automotive Network Security (Eric Evenchick)
 - Tavola rotonda a cui partecipa Igor “KOBA” Falcomatà di Sikurezza.org e Fabio “NAIF” Pietrosanti di Globaleaks
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -61,21 +61,21 @@ Work in Progres….
 - DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco)
 - Il telefono, la tua voce: Voip e sicurezza (Michele Garribba)
 - The PT Conundrum (and its antisec formulation) (Matteo Falsetti)
-- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi)
-- La sicurezza dei sistemi safety-critical (Andrea Barizani)
-- Data and Network Security in iOS (Andrey Belenko)
+- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi) - https://www.emaze.com/@ALWZFTQI/Smart-Grid:-Privacy-+-Security
+- La sicurezza dei sistemi safety-critical (Andrea Barizani) - Video https://www.youtube.com/watch?v=TXQM_rakuxs
+- Data and Network Security in iOS (Andrey Belenko) - Video https://www.youtube.com/watch?v=R6-YqiXQMX8
 - La prima arte marziale digitale (Zanshin Tech)
 - Tavola Rotonda a cui partecipa Giovanni Ziccardi
 - Moderatrice dell'intera giornata Yvette Agostini
 
 #### Quarta Edizione 23-05-2015 - LAB Edition
 
-- Difensori contro Attaccanti: cosa cambiare per non continuare a perdere (Antonio Forzieri)
+- Difensori contro Attaccanti: cosa cambiare per non continuare a perdere (Antonio Forzieri) - Slide Assenti
 - Dall’anonima sequestri al Ramsonware: vita, morte e miracoli di un malware (Stefano Fratepietro)
-- [CYBER|MOBILE|CLOUD]SECURITY (& PRIVACY), BY DESIGN! (Luca Bechelli)
-- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò)
+- [CYBER|MOBILE|CLOUD]SECURITY (& PRIVACY), BY DESIGN! (Luca Bechelli) - Slide Assenti
+- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò) - Slide Assenti
 - Dammi il tuo iPhone e ti dirò chi sei! (Mattia Epifani)
-- Tracking e intelligence per botnet basate su DGA (Stefano Zanero)
+- Tracking e intelligence per botnet basate su DGA (Stefano Zanero) - Slide Assenti
 - Tavola Rotonda a cui partecipa Gabriele Faggioli Presidente del Clusit
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -83,12 +83,12 @@ Work in Progres….
 
 #### Terza Edizione 11-10-2014
 
-- Come to the Dark Side, we have Apps! (Federico Maggi)
-- CopperDroid: On the Reconstruction of Android Malware Behaviors (Lorenzo Cavallaro)
+- Come to the Dark Side, we have Apps! (Federico Maggi) - Slide Assenti
+- CopperDroid: On the Reconstruction of Android Malware Behaviors (Lorenzo Cavallaro) - Slide Assenti
 - Reverse Engineering of a Commercial Spyware for iOS and Android (Marco Grassi)
-- Pentesting Android Applications with BackBox 4 (Raffaele Forte)
-- iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin)
-- Little PIN, little PIN, let me in! (Davide Gabrini)
+- Pentesting Android Applications with BackBox 4 (Raffaele Forte) - Slide Assenti
+- iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin) - Slide Assenti
+- Little PIN, little PIN, let me in! (Davide Gabrini): https://prezi.com/12lh3fzcqr3l/little-pin-little-pin-let-me-in/
 - Tavola Rotonda a cui partecipa Sergio Russo Vice Questore Aggiunto Compartimento Polizia Postale e delle Comunicazioni per l’Emilia Romagna
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -97,9 +97,9 @@ Work in Progres….
 - Infiltrare, Manipolare, Compromettere e Distruggere: i Social Media come Campo di Battaglia (Andrea Zapparoli Manzoni)
 - Grr-osso Guaio a Chinatown (Pasquale Stirparo)
 - La Strategia Italiana in Materia di Cyber Security (Stefano Mele)
-- Cyberpiatto del Giorno (Francesco Picasso)
-- Uso, ma specialmente Abuso, delle Tecniche di Investigazione e Sorveglianza Digitale (Andrea Ghirardini)
-- Cinquanta Sfumature di Cyber (Corrado Giustozzi)
+- Cyberpiatto del Giorno (Francesco Picasso) - Slide Assenti
+- Uso, ma specialmente Abuso, delle Tecniche di Investigazione e Sorveglianza Digitale (Andrea Ghirardini) - Slide Assenti
+- Cinquanta Sfumature di Cyber (Corrado Giustozzi) - Slide Assenti
 - Tavola Rotonda a cui partecipano Raul Chiesa e Elena Bassoli
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -107,8 +107,8 @@ Work in Progres….
 
 - Le nuove armi digitali. Aziende ed Enti governativi sono pronti? (Gianni Amato)
 - Hacking Wifi for Fun and Profit (Gianluca Ghettini)
-- Di chi sono i miei dati? (Paolo Dal Checcho)
-- CyberCrime: come un’azienda può andare in scacco matto (Emanuele Gentili)
+- Di chi sono i miei dati? (Paolo Dal Checco) - Slide Assenti
+- CyberCrime: come un’azienda può andare in scacco matto (Emanuele Gentili) - Slide Assenti (non dovrebbe avere autorizzato la diffusione)
 - Basta Hacker in TV! (Alessio Pennasilico)
 - Moderatrice dell'intera giornata Yvette Agostini
 
