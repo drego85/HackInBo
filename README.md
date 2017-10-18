@@ -61,7 +61,7 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco)
 - Il telefono, la tua voce: Voip e sicurezza (Michele Garribba)
 - The PT Conundrum (and its antisec formulation) (Matteo Falsetti)
-- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi) - https://www.emaze.com/@ALWZFTQI/Smart-Grid:-Privacy-+-Security
+- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi)
 - La sicurezza dei sistemi safety-critical (Andrea Barizani) - Video https://www.youtube.com/watch?v=TXQM_rakuxs
 - Data and Network Security in iOS (Andrey Belenko) - Video https://www.youtube.com/watch?v=R6-YqiXQMX8
 - La prima arte marziale digitale (Zanshin Tech)
@@ -70,12 +70,12 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 #### Quarta Edizione 23-05-2015 - LAB Edition
 
-- Difensori contro Attaccanti: cosa cambiare per non continuare a perdere (Antonio Forzieri) - Slide Assenti
+- Difensori contro Attaccanti: cosa cambiare per non continuare a perdere (Antonio Forzieri)
 - Dall’anonima sequestri al Ramsonware: vita, morte e miracoli di un malware (Stefano Fratepietro)
-- [CYBER|MOBILE|CLOUD]SECURITY (& PRIVACY), BY DESIGN! (Luca Bechelli) - Slide Assenti
-- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò) - Slide Assenti
+- [cyber|mobile|cloud] Security (& privacy), by Design! (Luca Bechelli)
+- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò)
 - Dammi il tuo iPhone e ti dirò chi sei! (Mattia Epifani)
-- Tracking e intelligence per botnet basate su DGA (Stefano Zanero) - Slide Assenti
+- Tracking e intelligence per botnet basate su DGA (Stefano Zanero)
 - Tavola Rotonda a cui partecipa Gabriele Faggioli Presidente del Clusit
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -83,11 +83,11 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 #### Terza Edizione 11-10-2014
 
-- Come to the Dark Side, we have Apps! (Federico Maggi) - Slide Assenti
-- CopperDroid: On the Reconstruction of Android Malware Behaviors (Lorenzo Cavallaro) - Slide Assenti
+- Come to the Dark Side, we have Apps! (Federico Maggi)
+- CopperDroid: On the Reconstruction of Android Malware Behaviors (Lorenzo Cavallaro)
 - Reverse Engineering of a Commercial Spyware for iOS and Android (Marco Grassi)
 - Pentesting Android Applications with BackBox 4 (Raffaele Forte) - Slide Assenti
-- iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin) - Slide Assenti
+- iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin)
 - Little PIN, little PIN, let me in! (Davide Gabrini): https://prezi.com/12lh3fzcqr3l/little-pin-little-pin-let-me-in/
 - Tavola Rotonda a cui partecipa Sergio Russo Vice Questore Aggiunto Compartimento Polizia Postale e delle Comunicazioni per l’Emilia Romagna
 - Moderatrice dell'intera giornata Yvette Agostini
