@@ -115,4 +115,4 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 **Questa raccolta è stata possibile con la collaborazione diretta o indiretta di:**
 
 - Paolo Stagno (VoidSec)
-- Carlo Denaro (blackout314)
+- [Carlo Denaro](https://github.com/blackout314) (blackout314)
