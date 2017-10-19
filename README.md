@@ -9,23 +9,23 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 #### Nona Edizione 14-10-2017
 
-- WannaCry: Il Venerdì Nero (Gianni Amato) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Advanced mobile penetration testing with Brida (Federico Dotta) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Dalla Malware Analysis alla Cyber Threat Information Sharing (Francesco Schifilliti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- WHID Injector: How to Bring HID Attacks to the Next Level (Luca Bongiorni) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Automated malware analysis & cuckoo sandbox (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Malware detection e modellazione comportamentale os agnostic (Stefano Maistri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
+- WannaCry: Il Venerdì Nero (Gianni Amato) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/01_WannaCry:_Il_Venerdì_Nero.pdf)
+- Advanced mobile penetration testing with Brida (Federico Dotta) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/02_Advanced_mobile_penetration_testing_with_Brida.pdf)
+- Dalla Malware Analysis alla Cyber Threat Information Sharing (Francesco Schifilliti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/03_Dalla_Malware_Analysis_alla_Cyber_Threat_Information_Sharing.pdf)
+- WHID Injector: How to Bring HID Attacks to the Next Level (Luca Bongiorni) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/04_WHID_Injector_How_to_Bring_HID_Attacks_to_the_Next_Level.pdf)
+- Automated malware analysis & cuckoo sandbox (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/05_Automated_malware_analysis_&_cuckoo_sandbox.pdf)
+- Malware detection e modellazione comportamentale os agnostic (Stefano Maistri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.10.14_Nona_Edizione/06_Malware_detection_e_modellazione_comportamentale_os_agnostic.pdf)
 - Tavola rotonda a cui partecipano Francesca Bosco e Pierluigi Perri
 - Moderatrice dell'intera giornata Yvette Agostini
 
 #### Ottava Edizione 06-05-2017 - LAB Edition
 
-- L'evoluzione del SOC di un'infrastruttura critica (Giovanni Mellini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Making vulnerability mining better than "ALLOC[A-Z0-9\_]*\s*\([^,]*,[^;]*[*+-][^>][^;]*\)\s*;” (Valerio Costamagna) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Go get my/vulnerabilities: an in-depth analysis of go language runtime and the new class of vulnerabilities it introduces (Roberto Clapis) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Da APK al Golden Ticket (Andrea Pierini e Giuseppe Trotta) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- So we broke all CSPs... You won't guess what happened next! (Michele Spagnuolo) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Phishing: one shot, many victims! (Andrea Draghetti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
+- L'evoluzione del SOC di un'infrastruttura critica (Giovanni Mellini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/01_L'evoluzione_del_SOC_di_un'infrastruttura_critica.pdf)
+- Making vulnerability mining better than "ALLOC[A-Z0-9\_]*\s*\([^,]*,[^;]*[*+-][^>][^;]*\)\s*;” (Valerio Costamagna) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/02_Making_vulnerability_mining_better_than.pdf)
+- Go get my/vulnerabilities: an in-depth analysis of go language runtime and the new class of vulnerabilities it introduces (Roberto Clapis) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/03_Go_get_my_vulnerabilities_an_in-depth_analysis_of_go_language_runtime_and_the_new_class_of_vulnerabilities_it_introduces.pdf)
+- Da APK al Golden Ticket (Andrea Pierini e Giuseppe Trotta) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/04_Da_APK_al_Golden_Ticket.pdf)
+- So we broke all CSPs... You won't guess what happened next! (Michele Spagnuolo) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/05_So_we_broke_all_CSPs..._You_won't_guess_what_happened_next.pdf)
+- Phishing: one shot, many victims! (Andrea Draghetti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/06_Phishing_one_shot,_many_victims.pdf)
 - Tavola rotonda a cui partecipano Giovanni Ziccardi e Alessio Pennasilico
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -33,24 +33,24 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 #### Settima Edizione 29-10-2016
 
-- Cosa c'è che non va? Miti, errori e credenze popolari dietro WAPT (Paolo Perego) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Make DKOM Attacks Great Again (Mariano Graziano) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Data Centric Security and Data Protection (Manuela Cianfrone) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Catch me if you can (Angelo Dall'Aera) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Sicurezza in aziende Agili (Giacomo Collini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Mamma, da grande voglio essere un Penetration Tester… (Simone Onofri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
+- Cosa c'è che non va? Miti, errori e credenze popolari dietro WAPT (Paolo Perego) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/01_Cosa_c'è_che_non_va_Miti,_errori_e_credenze_popolari_dietro_WAPT.pdf)
+- Make DKOM Attacks Great Again (Mariano Graziano) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/02_Make_DKOM_Attacks_Great_Again.pdf)
+- Data Centric Security and Data Protection (Manuela Cianfrone) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/03_Data_Centric_Security_and_Data_Protection.pdf)
+- Catch me if you can (Angelo Dall'Aera) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/04_Catch_me_if_you_can.pdf)
+- Sicurezza in aziende Agili (Giacomo Collini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/05_Sicurezza_in_aziende_Agili.pdf)
+- Mamma, da grande voglio essere un Penetration Tester… (Simone Onofri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.10.29_Settima_Edizione/06_Mamma,_da_grande_voglio_essere_un_Penetration_Tester.pdf)
 - Tavola rotonda a cui partecipa Carola Frediani e Corrado Giustozzi
 - Moderatrice dell'intera giornata Yvette Agostini
 
 #### Sesta Edizione 14-05-2016 - LAB Edition
 
-- Bitcoin Forensics, aspetti tecnici e investigativi della criptomoneta (Paolo Dal Checco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Threat Intelligence and Malware Analysis: two sides of the same coin (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Cybercrime in the deep web (Marco Balduzzi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Gestione degli incidenti informatici (Davide Dante Del Vecchio) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Client-side WarGames (Michele Orrù) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Le mille e una notte (Claudio Guarnieri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- A Brief Introduction to Automotive Network Security (Eric Evenchick) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
+- Bitcoin Forensics, aspetti tecnici e investigativi della criptomoneta (Paolo Dal Checco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/01_Bitcoin_Forensics,_aspetti_tecnici_e_investigativi_della_criptomoneta.pdf)
+- Threat Intelligence and Malware Analysis: two sides of the same coin (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/02_Threat_Intelligence_and_Malware_Analysis:_two_sides_of_the_same_coin.pdf)
+- Cybercrime in the deep web (Marco Balduzzi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/03_Cybercrime_in_the_deep_web.pdf)
+- Gestione degli incidenti informatici (Davide Dante Del Vecchio) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/04_Gestione_degli_incidenti_informatici.pdf)
+- Client-side WarGames (Michele Orrù) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/05_Client-side_WarGames.pdf)
+- Le mille e una notte (Claudio Guarnieri) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/06_Le_mille_e_una_notte.pdf)
+- A Brief Introduction to Automotive Network Security (Eric Evenchick) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2016.05.14_Sesta_Edizione/07_A_Brief_Introduction_to_Automotive_Network_Security.pdf)
 - Tavola rotonda a cui partecipa Igor “KOBA” Falcomatà di Sikurezza.org e Fabio “NAIF” Pietrosanti di Globaleaks
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -58,13 +58,13 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 #### Quinta Edizione 17-10-2015
 
-- DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Il telefono, la tua voce: Voip e sicurezza (Michele Garribba) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- The PT Conundrum (and its antisec formulation) (Matteo Falsetti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- La sicurezza dei sistemi safety-critical (Andrea Barizani) - [YOUTUBE](https://www.youtube.com/watch?v=TXQM_rakuxs) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- Data and Network Security in iOS (Andrey Belenko) - [YOUTUBE](https://www.youtube.com/watch?v=R6-YqiXQMX8) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
-- La prima arte marziale digitale (Zanshin Tech) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/)
+- DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/01_DevOoops.pdf)
+- Il telefono, la tua voce: Voip e sicurezza (Michele Garribba) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/02_Il_telefono,_la_tua_voce_Voip_e_sicurezza.pdf)
+- The PT Conundrum (and its antisec formulation) (Matteo Falsetti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/03_The_PT_Conundrum.pdf)
+- Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/04_Smart_Grid:_Privacy_e_Sicurezza_nella_Rete.pdf)
+- La sicurezza dei sistemi safety-critical (Andrea Barizani) - [YOUTUBE](https://www.youtube.com/watch?v=TXQM_rakuxs) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/05_La_sicurezza_dei_sistemi_safety-critical.pdf)
+- Data and Network Security in iOS (Andrey Belenko) - [YOUTUBE](https://www.youtube.com/watch?v=R6-YqiXQMX8) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/06_Data_and_Network_Security_in_iOS.pdf)
+- La prima arte marziale digitale (Zanshin Tech)
 - Tavola Rotonda a cui partecipa Giovanni Ziccardi
 - Moderatrice dell'intera giornata Yvette Agostini
 
