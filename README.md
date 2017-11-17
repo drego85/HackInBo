@@ -112,7 +112,7 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - Basta Hacker in TV! (Alessio Pennasilico) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/05_Basta_Hacker_in_TV.pdf)
 - Moderatrice dell'intera giornata Yvette Agostini
 
-**Questa raccolta è stata possibile con la collaborazione diretta o indiretta di:**
+**Questa raccolta è stata possibile con la collaborazione di:**
 
-- Paolo Stagno (VoidSec)
+- [Paolo Stagno](https://voidsec.com) (VoidSec)
 - [Carlo Denaro](https://github.com/blackout314) (blackout314)
