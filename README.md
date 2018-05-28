@@ -5,7 +5,15 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 
 ### Work in Progres….
 
+#### Decima edizione 26-05-2018
 
+- Security@HyperScale (Claudio Criscione)
+- Google and Apple cloud services: real time surveillance (Andy Malyshev)
+- JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata)
+- A Drone Tale, All your drones are belong to us (Paolo Stagno)
+- Detecting Phishing from pDNS (Irena Damsky)
+- Reverse engineering: instrumenting and debugging the native layer of mobile games and apps (Giovanni Rocca)
+- Approccio europeo alla Software Vulnerability Disclosure (Gianluca Varisco)
 
 #### Nona Edizione 14-10-2017
 
