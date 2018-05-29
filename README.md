@@ -1,12 +1,12 @@
 # HackInBo
 
-Unofficial Collection of Slides, Programs and Videos of HackInBo
+Unofficial Collection of Slides and Programs of HackInBo
 
-#### Decima edizione 26-05-2018 - LAB Edition
+#### Decima Edizione 26-05-2018 - LAB Edition
 
 - Security @ HyperScale (Claudio Criscione) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/01_Security_HyperScale.pdf)
 - Google and Apple cloud services: real time surveillance (Andy Malyshev)
-- JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata)
+- JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/03_JACKPOT_Sbancare_un_ATM_con_PloutusD.pdf)
 - A Drone Tale, All your drones are belong to us (Paolo Stagno)
 - Detecting Phishing from pDNS (Irena Damsky)
 - Reverse engineering: instrumenting and debugging the native layer of mobile games and apps (Giovanni Rocca)
