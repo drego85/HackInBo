@@ -2,18 +2,17 @@
 
 Unofficial Collection of Slides, Programs and Videos of HackInBo
 
+#### Decima edizione 26-05-2018 - LAB Edition
 
-### Work in Progres….
-
-#### Decima edizione 26-05-2018
-
-- Security@HyperScale (Claudio Criscione)
+- Security @ HyperScale (Claudio Criscione) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/01_Security_HyperScale.pdf)
 - Google and Apple cloud services: real time surveillance (Andy Malyshev)
 - JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata)
 - A Drone Tale, All your drones are belong to us (Paolo Stagno)
 - Detecting Phishing from pDNS (Irena Damsky)
 - Reverse engineering: instrumenting and debugging the native layer of mobile games and apps (Giovanni Rocca)
 - Approccio europeo alla Software Vulnerability Disclosure (Gianluca Varisco)
+- Tavola rotonda a cui partecipano Francesco Paolo Micozzi e Nanni Bassetti
+- Moderatrice dell'intera giornata Yvette Agostini
 
 #### Nona Edizione 14-10-2017
 
@@ -36,8 +35,6 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - Phishing: one shot, many victims! (Andrea Draghetti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2017.05.06_Ottava_Edizione/06_Phishing_one_shot,_many_victims.pdf)
 - Tavola rotonda a cui partecipano Giovanni Ziccardi e Alessio Pennasilico
 - Moderatrice dell'intera giornata Yvette Agostini
-
--> Manca Il programma dei LAB
 
 #### Settima Edizione 29-10-2016
 
@@ -62,8 +59,6 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - Tavola rotonda a cui partecipa Igor “KOBA” Falcomatà di Sikurezza.org e Fabio “NAIF” Pietrosanti di Globaleaks
 - Moderatrice dell'intera giornata Yvette Agostini
 
--> Manca Il programma dei LAB
-
 #### Quinta Edizione 17-10-2015
 
 - DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.10.17_Quinta_Edizione/01_DevOoops.pdf)
@@ -86,8 +81,6 @@ Unofficial Collection of Slides, Programs and Videos of HackInBo
 - Tracking e intelligence per botnet basate su DGA (Stefano Zanero) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2015.05.23_Quarta_Edizione/06_Tracking_e_intelligence_per_botnet_basate_su_DGA.pdf)
 - Tavola Rotonda a cui partecipa Gabriele Faggioli Presidente del Clusit
 - Moderatrice dell'intera giornata Yvette Agostini
-
--> Manca Il programma dei LAB
 
 #### Terza Edizione 11-10-2014
 
