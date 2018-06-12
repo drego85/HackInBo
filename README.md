@@ -8,7 +8,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 - Google and Apple cloud services: real time surveillance (Andy Malyshev)
 - JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/03_JACKPOT_Sbancare_un_ATM_con_PloutusD.pdf)
 - A Drone Tale, All your drones are belong to us (Paolo Stagno)
-- Detecting Phishing from pDNS (Irena Damsky)
+- Detecting Phishing from pDNS (Irena Damsky) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/05_Detecting_Phishing_from_pDNS.pdf)
 - Reverse engineering: instrumenting and debugging the native layer of mobile games and apps (Giovanni Rocca)
 - Approccio europeo alla Software Vulnerability Disclosure (Gianluca Varisco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/07_Approccio_europeo_alla_Software_Vulnerability_Disclosure.pdf)
 - Tavola rotonda a cui partecipano Francesco Paolo Micozzi e Nanni Bassetti
