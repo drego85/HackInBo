@@ -5,7 +5,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 #### Decima Edizione 26-05-2018 - LAB Edition
 
 - Security @ HyperScale (Claudio Criscione) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/01_Security_HyperScale.pdf)
-- Google and Apple cloud services: real time surveillance (Andy Malyshev)
+- Google and Apple cloud services: real time surveillance (Andy Malyshev) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/02_Google_and_Apple_cloud_services_real_time_surveillance.pdf)
 - JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/03_JACKPOT_Sbancare_un_ATM_con_PloutusD.pdf)
 - A Drone Tale, All your drones are belong to us (Paolo Stagno)
 - Detecting Phishing from pDNS (Irena Damsky) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/05_Detecting_Phishing_from_pDNS.pdf)
