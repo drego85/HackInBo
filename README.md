@@ -7,7 +7,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 - Security @ HyperScale (Claudio Criscione) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/01_Security_HyperScale.pdf)
 - Google and Apple cloud services: real time surveillance (Andy Malyshev) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/02_Google_and_Apple_cloud_services_real_time_surveillance.pdf)
 - JACKPOT! Sbancare un ATM con Ploutus.D (Antonio Parata) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/03_JACKPOT_Sbancare_un_ATM_con_PloutusD.pdf)
-- A Drone Tale, All your drones are belong to us (Paolo Stagno)
+- A Drone Tale, All your drones are belong to us (Paolo Stagno)[SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/04_A_Drone_Tale_All_your_drones_are_belong_to_us.pdf)
 - Detecting Phishing from pDNS (Irena Damsky) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/05_Detecting_Phishing_from_pDNS.pdf)
 - Reverse engineering: instrumenting and debugging the native layer of mobile games and apps (Giovanni Rocca e Vincenzo Greco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/06_Reverse_engineering_instrumenting_and_debugging_the_native_layer_of_mobile_games_and_apps.pdf)
 - Approccio europeo alla Software Vulnerability Disclosure (Gianluca Varisco) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/07_Approccio_europeo_alla_Software_Vulnerability_Disclosure.pdf)
@@ -89,7 +89,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 - Reverse Engineering of a Commercial Spyware for iOS and Android (Marco Grassi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.10.11_Terza_Edizione/03_Reverse_Engineering_of_a_Commercial_Spyware_for_iOS_and_Android.pdf)
 - Pentesting Android Applications with BackBox 4 (Raffaele Forte) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.10.11_Terza_Edizione/04_Pentesting_Android_Applications_with_BackBox_4.pdf)
 - iOS e la protezione dal punto di vista della Mobile Forensics (Litiano Piccin) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.10.11_Terza_Edizione/05_iOS_e_la_protezione_dal_punto_di_vista_della_Mobile_Forensics.pdf)
-- Little PIN, little PIN, let me in! (Davide Gabrini): https://prezi.com/12lh3fzcqr3l/little-pin-little-pin-let-me-in/
+- Little PIN, little PIN, let me in! (Davide Gabrini): [SLIDES](https://prezi.com/12lh3fzcqr3l/little-pin-little-pin-let-me-in/)
 - Tavola Rotonda a cui partecipa Sergio Russo Vice Questore Aggiunto Compartimento Polizia Postale e delle Comunicazioni per l’Emilia Romagna
 - Moderatrice dell'intera giornata Yvette Agostini
 
