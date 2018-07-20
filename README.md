@@ -98,7 +98,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 - Infiltrare, Manipolare, Compromettere e Distruggere: i Social Media come Campo di Battaglia (Andrea Zapparoli Manzoni) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.03.05_Seconda_Edizione/01_Infiltrare,_Manipolare,_Compromettere_e_Distruggere:_i_Social_Media_come_Campo_di_Battaglia.pdf)
 - Grr-osso Guaio a Chinatown (Pasquale Stirparo) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.03.05_Seconda_Edizione/02_Grr-osso_Guaio_a_Chinatown.pdf)
 - La Strategia Italiana in Materia di Cyber Security (Stefano Mele) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.03.05_Seconda_Edizione/03_La_Strategia_Italiana_in_Materia_di_Cyber_Security.pdf)
-- Cyberpiatto del Giorno (Francesco Picasso) - Slide Assenti
+- Cyberpiatto del Giorno (Francesco Picasso) - [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2014.03.05_Seconda_Edizione/04_Cyber_Piatto_del_Giorno.pdf)
 - Uso, ma specialmente Abuso, delle Tecniche di Investigazione e Sorveglianza Digitale (Andrea Ghirardini) - Slide Assenti
 - Cinquanta Sfumature di Cyber (Corrado Giustozzi) - Slide Assenti
 - Tavola Rotonda a cui partecipano Raul Chiesa e Elena Bassoli
