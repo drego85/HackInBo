@@ -108,7 +108,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 
 - Le nuove armi digitali. Aziende ed Enti governativi sono pronti? (Gianni Amato) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/01_Le_nuove_armi_digitali._Aziende_ed_Enti_governativi_sono_pronti.pdf)
 - Hacking Wifi for Fun and Profit (Gianluca Ghettini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/02_Hacking_Wifi_for_Fun_and_Profit.pdf)
-- Di chi sono i miei dati? (Paolo Dal Checco) - [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/02_Hacking_Wifi_for_Fun_and_Profit.pdf)
+- Di chi sono i miei dati? (Paolo Dal Checco) - [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/03_Di_chi_sono_i_miei_dati.pdf)
 - CyberCrime: come un'azienda può andare in scacco matto (Emanuele Gentili) - Slide Assenti (non dovrebbe avere autorizzato la diffusione)
 - Basta Hacker in TV! (Alessio Pennasilico) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2013.09.20_Prima_Edizione/05_Basta_Hacker_in_TV.pdf)
 - Moderatrice dell'intera giornata Yvette Agostini
