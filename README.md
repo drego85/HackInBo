@@ -2,6 +2,16 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+#### Undicesima Edizione 27-10-2018
+
+- CORS (In)Security (Davide Danelon)
+- Can you hide [malware] forever? (Alessando Di Carlo)
+- Take a walk in the wild side(-channel) (Enrico Perla)
+- Introducing Bento: your forensic launcher box (Davide Gabrini)
+- Smartphone usati: scatole nere delle nostre vite (Matteo Redaelli)
+- Conoscere la crittografia...rompendola! (Marco Ortisi)
+- V!4GR4: Cyber-Crime, Enlarged (Koby Kilimnik)
+
 #### Decima Edizione 26-05-2018 - LAB Edition
 
 - Security @ HyperScale (Claudio Criscione) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.05.26_Decima_Edizione/01_Security_HyperScale.pdf)
