@@ -4,13 +4,13 @@ Unofficial Collection of Slides and Programs of HackInBo
 
 #### Undicesima Edizione 27-10-2018
 
-- CORS (In)Security (Davide Danelon)
-- Can you hide [malware] forever? (Alessando Di Carlo)
-- Take a walk in the wild side(-channel) (Enrico Perla)
-- Introducing Bento: your forensic launcher box (Davide Gabrini)
-- Smartphone usati: scatole nere delle nostre vite (Matteo Redaelli)
-- Conoscere la crittografia...rompendola! (Marco Ortisi)
-- V!4GR4: Cyber-Crime, Enlarged (Koby Kilimnik)
+- CORS (In)Security (Davide Danelon) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/01_CORS_In_Security.pdf)
+- Can you hide [malware] forever? (Alessando Di Carlo) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/02_Can_you_hide_malware_forever.pdf)
+- Take a walk in the wild side(-channel) (Enrico Perla) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/03_Take_a_walk_in_the_wild_side_channel.pdf)
+- Introducing Bento: your forensic launcher box (Davide Gabrini) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/04_Introducing_Bento_your_forensic_launcher_box.pdf)
+- Smartphone usati: scatole nere delle nostre vite (Matteo Redaelli) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/05_Smartphone_usati_scatole_nere_delle_nostre-vite.pdf)
+- Conoscere la crittografia...rompendola! (Marco Ortisi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/06_Conoscere_la_crittografia...rompendola.pdf)
+- V!4GR4: Cyber-Crime, Enlarged (Koby Kilimnik) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/07_V!4GR4_Cyber_Crime_Enlarged.pdf)
 
 #### Decima Edizione 26-05-2018 - LAB Edition
 
