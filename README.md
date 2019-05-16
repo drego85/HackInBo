@@ -2,6 +2,13 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+
+### HackInBoat - Prima Edizione - 02-05-2019 - 05-05-2019
+
+- Much Malware, Very Sample (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/01_Much_malware_vary_sample.pdf)
+- Offensive Security 4 n00bs (Igor  Falcomatà e Gianfranco Ciotti) - Slide Assenti
+- DFIR@HackInBoat (Paolo Dal Checco e Davide Gabrini) - Slide Assenti
+
 #### Undicesima Edizione 27-10-2018
 
 - CORS (In)Security (Davide Danelon) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2018.10.27_Undicesima_Edizione/01_CORS_In_Security.pdf)
