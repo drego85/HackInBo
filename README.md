@@ -3,7 +3,7 @@
 Unofficial Collection of Slides and Programs of HackInBo
 
 
-### HackInBoat - Prima Edizione - 02-05-2019 - 05-05-2019
+#### HackInBoat - Prima Edizione - 02-05 Maggio 2019
 
 - Much Malware, Very Sample (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/01_Much_malware_vary_sample.pdf)
 - Offensive Security 4 n00bs (Igor  Falcomatà e Gianfranco Ciotti) - Slide Assenti
