@@ -3,11 +3,11 @@
 Unofficial Collection of Slides and Programs of HackInBo
 
 
-#### HackInBoat - Prima Edizione - 02-05 Maggio 2019
+#### Dodicesima Edizione (HackInBoat Edition) - 02-05 Maggio 2019
 
 - Much Malware, Very Sample (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/01_Much_malware_vary_sample.pdf)
-- Offensive Security 4 n00bs (Igor  Falcomatà e Gianfranco Ciotti) - Slide Assenti
-- DFIR@HackInBoat (Paolo Dal Checco e Davide Gabrini) - Slide Assenti
+- Offensive Security 4 n00bs (Igor  Falcomatà e Gianfranco Ciotti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/02_Offensive_Security_4_n00bs.pdf) - [VM Kobacrociere](http://hackinboat.tirrenide.net/hackinboat/kobacrociere.ovf.tgz)
+- DFIR@HackInBoat (Paolo Dal Checco e Davide Gabrini) - [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/03_Digital_Forensics.pdf)
 
 #### Undicesima Edizione 27-10-2018
 
