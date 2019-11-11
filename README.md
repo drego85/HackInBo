@@ -2,11 +2,21 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+#### Tredicesima Edizione 09-11-2019
+
+* Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution + Tsurugi Lounge (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) SLIDES
+* Buffer Overflow Demystified (Angelo Dell'Aera) SLIDES
+* Awareness by Design (Marilisa Del Vecchio) SLIDES
+* The only way to survive is to automate your SOC (Roberto Sponchioni) SLIDES
+* The web is broken: let's fix it (Michele Spagnuolo - Roberto Clapis) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.11.09_Tredicesima_Edizione/05_The_web_is_broken__let_s_fix_it.pdf)
+* How to write malware and learn how to fight it! (Antonio Parata) SLIDES
+* Reverse engineering di protocolli radio proprietari: dalle basi al design di un ricetrasmettitore in hardware (Federico Maggi) SLIDES
+* Evoluzione degli APT attraverso la supply chain (Alberto Pellicione) SLIDES
 
 #### Dodicesima Edizione (HackInBoat Edition) - 02-05 Maggio 2019
 
 - Much Malware, Very Sample (Alessandro Tanasi) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/01_Much_malware_vary_sample.pdf)
-- Offensive Security 4 n00bs (Igor  Falcomatà e Gianfranco Ciotti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/02_Offensive_Security_4_n00bs.pdf) - [VM Kobacrociere](http://hackinboat.tirrenide.net/hackinboat/kobacrociere.ovf.tgz)
+- Offensive Security 4 n00bs (Igor Falcomatà e Gianfranco Ciotti) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/02_Offensive_Security_4_n00bs.pdf) - [VM Kobacrociere](http://hackinboat.tirrenide.net/hackinboat/kobacrociere.ovf.tgz)
 - DFIR@HackInBoat (Paolo Dal Checco e Davide Gabrini) - [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.05.02_HackInBoat_Prima_Edizione/03_Digital_Forensics.pdf)
 
 #### Undicesima Edizione 27-10-2018
