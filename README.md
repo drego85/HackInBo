@@ -7,7 +7,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 * Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution + Tsurugi Lounge (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) SLIDES
 * Buffer Overflow Demystified (Angelo Dell'Aera) SLIDES
 * Awareness by Design (Marilisa Del Vecchio) SLIDES
-* The only way to survive is to automate your SOC (Roberto Sponchioni) SLIDES
+* The only way to survive is to automate your SOC (Roberto Sponchioni) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.11.09_Tredicesima_Edizione/04_The_only_way_to_survive_is_to_automate_your_SOC.pdf)
 * The web is broken: let's fix it (Michele Spagnuolo - Roberto Clapis) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide/2019.11.09_Tredicesima_Edizione/05_The_web_is_broken__let_s_fix_it.pdf)
 * How to write malware and learn how to fight it! (Antonio Parata) SLIDES
 * Reverse engineering di protocolli radio proprietari: dalle basi al design di un ricetrasmettitore in hardware (Federico Maggi) SLIDES
