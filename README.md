@@ -5,7 +5,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 #### Tredicesima Edizione 09-11-2019
 
 * Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution + Tsurugi Lounge (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) SLIDES
-* Buffer Overflow Demystified (Angelo Dell'Aera) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/02_Buffer_Overflow_Demystified.pdf)
+* Buffer Overflow Demystified (Angelo Dell'Aera) [SLIDES PDF](./Slide/2019.11.09_Tredicesima_Edizione/02_Buffer_Overflow_Demystified.pdf) - [SLIDES Animate](./Slide/2019.11.09_Tredicesima_Edizione/02_Buffer_Overflow_Demystified.key)
 * Awareness by Design (Marilisa Del Vecchio) SLIDES
 * The only way to survive is to automate your SOC (Roberto Sponchioni) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/04_The_only_way_to_survive_is_to_automate_your_SOC.pdf)
 * The web is broken: let's fix it (Michele Spagnuolo - Roberto Clapis) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/05_The_web_is_broken__let_s_fix_it.pdf)
