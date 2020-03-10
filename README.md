@@ -4,13 +4,13 @@ Unofficial Collection of Slides and Programs of HackInBo
 
 #### Tredicesima Edizione 09-11-2019
 
-* Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution + Tsurugi Lounge (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) SLIDES
+* Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/01_Tsurugi_Linux_e_l'evoluzione_del_panorama_della_Digital_Forensics_and_Incident_Response_Distribution.pdf)
 * Buffer Overflow Demystified (Angelo Dell'Aera) [SLIDES PDF](./Slide/2019.11.09_Tredicesima_Edizione/02_Buffer_Overflow_Demystified.pdf) - [SLIDES Animate](./Slide/2019.11.09_Tredicesima_Edizione/02_Buffer_Overflow_Demystified.key)
-* Awareness by Design (Marilisa Del Vecchio) SLIDES
+* Awareness by Design (Marilisa Del Vecchio) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/03_Awareness_by_Design.pdf)
 * The only way to survive is to automate your SOC (Roberto Sponchioni) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/04_The_only_way_to_survive_is_to_automate_your_SOC.pdf)
 * The web is broken: let's fix it (Michele Spagnuolo - Roberto Clapis) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/05_The_web_is_broken__let_s_fix_it.pdf)
 * How to write malware and learn how to fight it! (Antonio Parata) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/06_How_to_write_malware_and_learn_how_to_fight_it.pdf)
-* Reverse engineering di protocolli radio proprietari: dalle basi al design di un ricetrasmettitore in hardware (Federico Maggi) SLIDES
+* Reverse engineering di protocolli radio proprietari: dalle basi al design di un ricetrasmettitore in hardware (Federico Maggi) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/07_Reverse_engineering_di_protocolli_radio_proprietari-_dalle_basi_al_design_di_un_ricetrasmettitore_in_hardware.pdf)
 * Evoluzione degli APT attraverso la supply chain (Alberto Pellicione) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/08_Evoluzione_degli_APT_attraverso_la_supply_chain.pdf)
 
 #### Dodicesima Edizione (HackInBoat Edition) - 02-05 Maggio 2019
