@@ -2,6 +2,19 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+#### Quattordicesima Edizione (Safe Edition) 30-05-2020
+
+* Let’s spread Phishing and escape the blocklists (Andrea Draghetti) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/01_Let_s_spread_Phishing_and_escape_the_blocklists.pdf)
+* Rilevazione e analisi forense di manipolazioni e falsificazione di messaggi di posta elettronica (Paolo Dal Checco) 
+* x86 shellcoding cakestar (Paolo Perego) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/03_x86_shellcoding_cakestar.pdf)
+* Come aggirare i sistemi a doppia autenticazione (phishing-ng) (Igor Falcomatà, Gianfranco Ciotti) [SLIDES]
+* Scenari reali di DFIR: Tips&Tricks per una corretta analisi (Alessandro Di Carlo) [SLIDES]
+* iOS Forensics a costo zero (Mattia Epifani) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/06_iOS_Forensics_a_costo_zero.pdf)
+* Analisi di un binario estratto da un Incident Response (Antonio Parata) [SLIDES]
+* Investigazioni DFIR e OSINT con il progetto Tsurugi Linux (Davide Gabrini, Marco Giorgi, Giovanni Rattaro e Massimiliano Dal Cero) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/08_Investigazioni_DFIR_e_OSINT_con_il_progetto_Tsurugi_Linux.pdf)
+
+
+
 #### Tredicesima Edizione 09-11-2019
 
 * Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) [SLIDES](./Slide/2019.11.09_Tredicesima_Edizione/01_Tsurugi_Linux_e_l'evoluzione_del_panorama_della_Digital_Forensics_and_Incident_Response_Distribution.pdf)
