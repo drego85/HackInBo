@@ -7,8 +7,8 @@ Unofficial Collection of Slides and Programs of HackInBo
 * Let’s spread Phishing and escape the blocklists (Andrea Draghetti) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/01_Let_s_spread_Phishing_and_escape_the_blocklists.pdf)
 * Rilevazione e analisi forense di manipolazioni e falsificazione di messaggi di posta elettronica (Paolo Dal Checco) 
 * x86 shellcoding cakestar (Paolo Perego) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/03_x86_shellcoding_cakestar.pdf)
-* Come aggirare i sistemi a doppia autenticazione (phishing-ng) (Igor Falcomatà, Gianfranco Ciotti) [SLIDES]
-* Scenari reali di DFIR: Tips&Tricks per una corretta analisi (Alessandro Di Carlo) [SLIDES]
+* Come aggirare i sistemi a doppia autenticazione (phishing-ng) (Igor Falcomatà e Gianfranco Ciotti) [SLIDES]
+* Scenari reali di DFIR: Tips&Tricks per una corretta analisi (Alessandro Di Carlo) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/05_Scenari_reali_di_DFIR_Tips_and_Tricks_per_una_corretta_analisi.pdf)
 * iOS Forensics a costo zero (Mattia Epifani) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/06_iOS_Forensics_a_costo_zero.pdf)
 * Analisi di un binario estratto da un Incident Response (Antonio Parata) [SLIDES]
 * Investigazioni DFIR e OSINT con il progetto Tsurugi Linux (Davide Gabrini, Marco Giorgi, Giovanni Rattaro e Massimiliano Dal Cero) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/08_Investigazioni_DFIR_e_OSINT_con_il_progetto_Tsurugi_Linux.pdf)
