@@ -7,7 +7,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 * Let’s spread Phishing and escape the blocklists (Andrea Draghetti) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/01_Let_s_spread_Phishing_and_escape_the_blocklists.pdf)
 * Rilevazione e analisi forense di manipolazioni e falsificazione di messaggi di posta elettronica (Paolo Dal Checco) - No slides solo demo
 * x86 shellcoding cakestar (Paolo Perego) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/03_x86_shellcoding_cakestar.pdf)
-* Come aggirare i sistemi a doppia autenticazione (phishing-ng) (Igor Falcomatà e Gianfranco Ciotti) [SLIDES]
+* Come aggirare i sistemi a doppia autenticazione (phishing-ng) (Igor Falcomatà e Gianfranco Ciotti) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/04_Come_aggirare_i_sistemi_a_doppia_autenticazione_phishing-ng.pdf)
 * Scenari reali di DFIR: Tips&Tricks per una corretta analisi (Alessandro Di Carlo) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/05_Scenari_reali_di_DFIR_Tips_and_Tricks_per_una_corretta_analisi.pdf)
 * iOS Forensics a costo zero (Mattia Epifani) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/06_iOS_Forensics_a_costo_zero.pdf)
 * Analisi di un binario estratto da un Incident Response (Antonio Parata) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/07_Analisi_di_un_binario_estratto_da_un_Incident_Response.pdf)
