@@ -2,6 +2,17 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+
+
+#### Quindicesima Edizione 31-10-2020
+
+* External Attack Surface (from mapping to monitoring) (Alessio Petracca)
+* Cosa ho imparato dall’hack di Cayman National Bank (Andrea Ghirardini)
+* Unconventional use for a famous Bootrom Exploit (Giulio Zompetti)
+* Building Secure and Reliable Systems (Federico Scrinzi)
+* Attenzione a quei robot! Vulnerabilità nei programmi di automazione industriale e come trovarle. (Federico Maggi - Marcello Pogliani)
+* Le indagini preventive durante un attacco informatico: "l'avvocato ficcanaso" (Barbara Indovina)
+
 #### Quattordicesima Edizione (Safe Edition) 30-05-2020
 
 * Let’s spread Phishing and escape the blocklists (Andrea Draghetti) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/01_Let_s_spread_Phishing_and_escape_the_blocklists.pdf)
@@ -12,8 +23,6 @@ Unofficial Collection of Slides and Programs of HackInBo
 * iOS Forensics a costo zero (Mattia Epifani) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/06_iOS_Forensics_a_costo_zero.pdf)
 * Analisi di un binario estratto da un Incident Response (Antonio Parata) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/07_Analisi_di_un_binario_estratto_da_un_Incident_Response.pdf)
 * Investigazioni DFIR e OSINT con il progetto Tsurugi Linux (Davide Gabrini, Marco Giorgi, Giovanni Rattaro e Massimiliano Dal Cero) [SLIDES](./Slide/2020.05.30_Quattordicesima_Edizione/08_Investigazioni_DFIR_e_OSINT_con_il_progetto_Tsurugi_Linux.pdf)
-
-
 
 #### Tredicesima Edizione 09-11-2019
 
