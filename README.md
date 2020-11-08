@@ -4,9 +4,9 @@ Unofficial Collection of Slides and Programs of HackInBo
 
 
 
-#### Quindicesima Edizione 31-10-2020
+#### Quindicesima Edizione (Safe Edition #2) 31-10-2020
 
-* External Attack Surface (from mapping to monitoring) (Alessio Petracca)
+* External Attack Surface (from mapping to monitoring) (Alessio Petracca) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/01_External_Attack_Surface.pdf)
 * Cosa ho imparato dall’hack di Cayman National Bank (Andrea Ghirardini)
 * Unconventional use for a famous Bootrom Exploit (Giulio Zompetti)
 * Building Secure and Reliable Systems (Federico Scrinzi)
