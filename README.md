@@ -8,7 +8,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 
 * External Attack Surface (from mapping to monitoring) (Alessio Petracca) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/01_External_Attack_Surface.pdf)
 * Cosa ho imparato dall’hack di Cayman National Bank (Andrea Ghirardini)
-* Unconventional use for a famous Bootrom Exploit (Giulio Zompetti)
+* Unconventional use for a famous Bootrom Exploit (Giulio Zompetti) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/03_Unconventional_use_for_a_famous_Bootrom_Exploit.pdf)
 * Building Secure and Reliable Systems (Federico Scrinzi)
 * Attenzione a quei robot! Vulnerabilità nei programmi di automazione industriale e come trovarle. (Federico Maggi - Marcello Pogliani)
 * Le indagini preventive durante un attacco informatico: "l'avvocato ficcanaso" (Barbara Indovina)
