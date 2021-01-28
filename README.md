@@ -7,11 +7,12 @@ Unofficial Collection of Slides and Programs of HackInBo
 #### Quindicesima Edizione (Safe Edition #2) 31-10-2020
 
 * External Attack Surface (from mapping to monitoring) (Alessio Petracca) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/01_External_Attack_Surface.pdf)
-* Cosa ho imparato dall’hack di Cayman National Bank (Andrea Ghirardini) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/02_Cosa_ho_imparato_dall'hack_di_Cayman_National_Bank.pdf)
+* Cosa ho imparato dall’hack di Cayman National Bank (Andrea Ghirardini) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/02_Cosa_ho_imparato_dall_hack_di_Cayman_National_Bank.pdf)
 * Unconventional use for a famous Bootrom Exploit (Giulio Zompetti) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/03_Unconventional_use_for_a_famous_Bootrom_Exploit.pdf)
-* Building Secure and Reliable Systems (Federico Scrinzi)
-* Attenzione a quei robot! Vulnerabilità nei programmi di automazione industriale e come trovarle. (Federico Maggi - Marcello Pogliani)
-* Le indagini preventive durante un attacco informatico: "l'avvocato ficcanaso" (Barbara Indovina)
+* Building Secure and Reliable Systems (Federico Scrinzi) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/04_building_secure_and_reliable_systems.pdf)
+* Attenzione a quei robot! Vulnerabilità nei programmi di automazione industriale e come trovarle. (Federico Maggi - Marcello Pogliani) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/05_attenzione_a_quei_robot_vulnerabilita_nei_programmi_di_automazione_industriale_e_come_trovarle.pdf)
+* Le indagini preventive durante un attacco informatico: "l'avvocato ficcanaso" (Barbara Indovina) [SLIDES](./Slide/2020.10.31_Quindicesima_Edizione/06_le_indagini_preventive_durante_un_attacco_informatico_l_avvocato_ficcanaso.pdf)
+
 
 #### Quattordicesima Edizione (Safe Edition) 30-05-2020
 
