@@ -2,7 +2,12 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
-
+#### Sedicesima Edizione (Safe Edition #3) 29-05-2021
+* OSINT con Maltego (e il proprio cervello) (Claudio Canavese) 
+* Cloudabrodo - Un cloud colabrodo (Massimo Bozza)
+* Acquisizione Forense di pagine web: obiettivi, approcci e metodologie (Andrea Lazzarotto)
+* Digital Forensics & O.S.Int con Tsurugi-Linux (Antonio Broi)
+* Hardening Lan with IpFire per la protezione dei tuoi dispositivi (Fabio Carletti e Umberto Parma)
 
 #### Quindicesima Edizione (Safe Edition #2) 31-10-2020
 
