@@ -1,4 +1,4 @@
-2021# HackInBo
+# HackInBo
 
 Unofficial Collection of Slides and Programs of HackInBo
 
