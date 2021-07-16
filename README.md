@@ -1,13 +1,13 @@
-# HackInBo
+2021# HackInBo
 
 Unofficial Collection of Slides and Programs of HackInBo
 
 #### Sedicesima Edizione (Safe Edition #3) 29-05-2021
-* OSINT con Maltego (e il proprio cervello) (Claudio Canavese) 
-* Cloudabrodo - Un cloud colabrodo (Massimo Bozza)
-* Acquisizione Forense di pagine web: obiettivi, approcci e metodologie (Andrea Lazzarotto)
-* Digital Forensics & O.S.Int con Tsurugi-Linux (Antonio Broi)
-* Hardening Lan with IpFire per la protezione dei tuoi dispositivi (Fabio Carletti e Umberto Parma)
+* OSINT con Maltego (e il proprio cervello) (Claudio Canavese) - No slides solo demo
+* Cloudabrodo - Un cloud colabrodo (Massimo Bozza) [SLIDES](./Slide/2021.05.29_Sedicesima_Edizione/02_Cloudabrodo_Un_cloud_colabrodo.pdf)
+* Acquisizione Forense di pagine web: obiettivi, approcci e metodologie (Andrea Lazzarotto) [SLIDES](./Slide/2021.05.29_Sedicesima_Edizione/03_Acquisizione_Forense_di_pagine_web.pdf)
+* Digital Forensics & O.S.Int con Tsurugi-Linux (Antonio Broi) [SLIDES](./Slide/2021.05.29_Sedicesima_Edizione/04_Digital_Forensics_OSINT_con_Tsurugi_Linux.pdf)
+* Hardening Lan with IpFire per la protezione dei tuoi dispositivi (Fabio Carletti e Umberto Parma) [SLIDES](./Slide/2021.05.29_Sedicesima_Edizione/05_Hardening_Lan_with_IpFire_per_la_protezione_dei_tuoi_dispositivi.pdf)
 
 #### Quindicesima Edizione (Safe Edition #2) 31-10-2020
 
