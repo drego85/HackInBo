@@ -2,6 +2,16 @@
 
 Unofficial Collection of Slides and Programs of HackInBo
 
+#### Diciassettesima Edizione (Safe Edition #4) 06-11-2021
+
+* Falco + Falcosidekick = Create your own Kubernetes security Response Engine (Stefano Chierici)
+* Bitlocker and Trusted Platform Module (Luigi Fragale)
+* Propaganda grew, and so did Twitter (Luigi Gubello)
+* Insicurezza della Rete: la scomoda eredità della filosofia hippie (Corrado Giustozzi)
+*  Yiannis Stavrou Long-range disruption of industrial processes using Drones and LoRaWAN (Yiannis Stavrou)
+* Serverless Security Testing (Tal Melamed)
+* Guida galattica per nuovi operatori ransomware: Una vista dall'interno e spunti per le pratiche di detection (Emanuele De Lucia)
+
 #### Sedicesima Edizione (Safe Edition #3) 29-05-2021
 * OSINT con Maltego (e il proprio cervello) (Claudio Canavese) - No slides solo demo
 * Cloudabrodo - Un cloud colabrodo (Massimo Bozza) [SLIDES](./Slide/2021.05.29_Sedicesima_Edizione/02_Cloudabrodo_Un_cloud_colabrodo.pdf)
