@@ -141,7 +141,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 - Difensori contro Attaccanti: cosa cambiare per non continuare a perdere (Antonio Forzieri) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/01_Difensori_contro_Attaccanti:_cosa_cambiare_per_non_continuare_a_perdere.pdf)
 - Dall’anonima sequestri al Ramsonware: vita, morte e miracoli di un malware (Stefano Fratepietro) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/02_Dall’anonima_sequestri_al_Ramsonware:_vita,_morte_e_miracoli_di_un_malware.pdf)
 - [cyber|mobile|cloud] Security (& privacy), by Design! (Luca Bechelli) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/03_[cyber|mobile|cloud]_Security_(&_privacy),_by_Design!.pdf)
-- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò) [SLIDES](https://raw.githubusercontent.com/drego85/HackInBo/master/Slide2015.05.23_Quarta_Edizione/04_Shadow_IT,_Cloud_e_Identita':_la_tempesta_perfetta_della_sicurezza.pdf/)
+- Shadow IT, Cloud e Identita': la tempesta perfetta della sicurezza (Giuseppe Paternò) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/04_Shadow_IT,_Cloud_e_Identita':_la_tempesta_perfetta_della_sicurezza.pdf/)
 - Dammi il tuo iPhone e ti dirò chi sei! (Mattia Epifani) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/05_Dammi_il_tuo_iPhone_e_ti_dirò_chi_sei.pdf)
 - Tracking e intelligence per botnet basate su DGA (Stefano Zanero) [SLIDES](./Slide/2015.05.23_Quarta_Edizione/06_Tracking_e_intelligence_per_botnet_basate_su_DGA.pdf)
 - Tavola Rotonda a cui partecipa Gabriele Faggioli Presidente del Clusit
