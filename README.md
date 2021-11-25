@@ -9,7 +9,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 * Propaganda grew, and so did Twitter (Luigi Gubello) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/03_Propaganda_grew_and_so_did_Twitter.pdf)
 * Insicurezza della Rete: la scomoda eredità della filosofia hippie (Corrado Giustozzi)
 * Long-range disruption of industrial processes using Drones and LoRaWAN (Yiannis Stavrou)
-* Serverless Security Testing (Tal Melamed)
+* Serverless Security Testing (Tal Melamed) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/06_Serverless_Security_Testing.pdf)
 * Guida galattica per nuovi operatori ransomware: Una vista dall'interno e spunti per le pratiche di detection (Emanuele De Lucia) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/07_Guida_galattica_per_nuovi_operatori_ransomware.pdf)
 
 #### Sedicesima Edizione (Safe Edition #3) 29-05-2021
