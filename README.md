@@ -8,7 +8,7 @@ Unofficial Collection of Slides and Programs of HackInBo
 * Bitlocker and Trusted Platform Module (Luigi Fragale) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/02_Bitlocker_and_Trusted_Platform_Module.pdf)
 * Propaganda grew, and so did Twitter (Luigi Gubello) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/03_Propaganda_grew_and_so_did_Twitter.pdf)
 * Insicurezza della Rete: la scomoda eredità della filosofia hippie (Corrado Giustozzi)
-* Long-range disruption of industrial processes using Drones and LoRaWAN (Yiannis Stavrou)
+* Long-range disruption of industrial processes using Drones and LoRaWAN (Yiannis Stavrou) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/05_Long_range_disruption_of_industrial_processes_using_Drones_and_LoRaWAN.pdf)
 * Serverless Security Testing (Tal Melamed) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/06_Serverless_Security_Testing.pdf)
 * Guida galattica per nuovi operatori ransomware: Una vista dall'interno e spunti per le pratiche di detection (Emanuele De Lucia) [SLIDES](./Slide/2021.11.06_Diciassettesima_Edizione/07_Guida_galattica_per_nuovi_operatori_ransomware.pdf)
 
