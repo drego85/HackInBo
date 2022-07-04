@@ -5,11 +5,11 @@ Official Collection of Slides and Programs of HackInBo
 #### Diciottesima Edizione 28-05-2022
 
 * A deep dive into advanced Android banking Trojan campaigns (Federico Valentini e Francesco Iubatti)
-* Smart Contract (In)Security - How to lose money without trading (Simone Bovi)
+* Smart Contract (In)Security - How to lose money without trading (Simone Bovi) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/02_Smart_Contract_In_Security_How_to_lose_money_without_trading.pdf)
 * Once upon assign()... (Marco Ortisi)
 * Discovering C&C in Malicious PDF with obfuscation, encoding and other techniques (Filipi Pires)
 * The Hidden Threat. Breaking into Connected Devices for Infrastructure Compromise (Cristofaro Mune) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/05_The_Hidden_Threat_Breaking_into_Connected_Devices_for_Infrastructure_Compromise.pdf)
-* The CAN Link-Layer, or how we implemented a broken protocol and can we fix it (Stefano Longari)  [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/06_The_CAN_Link_Layer_or_how_we_implemented_a_broken_protocol_and_can_we_fix_it.pdf)
+* The CAN Link-Layer, or how we implemented a broken protocol and can we fix it (Stefano Longari) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/06_The_CAN_Link_Layer_or_how_we_implemented_a_broken_protocol_and_can_we_fix_it.pdf)
 
 
 #### Diciassettesima Edizione (Safe Edition #4) 06-11-2021
