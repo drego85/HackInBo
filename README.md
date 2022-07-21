@@ -4,7 +4,7 @@ Official Collection of Slides and Programs of HackInBo
 
 #### Diciottesima Edizione 28-05-2022
 
-* A deep dive into advanced Android banking Trojan campaigns (Federico Valentini e Francesco Iubatti)
+* A deep dive into advanced Android banking Trojan campaigns (Federico Valentini e Francesco Iubatti) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/01_A_deep_dive_into_advanced_Android_banking_Trojan_campaigns.pdf)
 * Smart Contract (In)Security - How to lose money without trading (Simone Bovi) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/02_Smart_Contract_In_Security_How_to_lose_money_without_trading.pdf)
 * Once upon assign()... (Marco Ortisi)
 * Discovering C&C in Malicious PDF with obfuscation, encoding and other techniques (Filipi Pires) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/04_Discovering_C_and_C_in_Malicious_PDF_with_obfuscation_encoding_and_other_techniques.pdf) 
