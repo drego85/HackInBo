@@ -3,11 +3,11 @@
 Official Collection of Slides and Programs of HackInBo
 
 #### Diciannovesima Edizione 03-12-2022
-* Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro)
-* The firewall is dead, long live to the firewall! (Davide Annovazzi)
+* Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/01_Dentro_alveare_alla_ricerca_del_nettare_perduto.pdf)
+* The firewall is dead, long live to the firewall! (Davide Annovazzi) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/02_The_firewall_is_dead_long_live_to_the_firewall.pdf)
 * Could threat actors be downgrading their malware to evade detection? (Laura Varano)
 * Double your profit with these tools for active directory security (Andrea Pierini e Marco Magnaguagno)
-* How to break the Modbus protocol and do a PLC DoS (Omar Morando)
+* How to break the Modbus protocol and do a PLC DoS (Omar Morando) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/05_How_to_break_the_Modbus_protocol_and_do_a_PLC_DoS.pdf)
 * Antiphishing ed oltre: la protezione del brand e del dominio di posta (Raffaele Colavecchi)
 
 #### Diciottesima Edizione 28-05-2022
