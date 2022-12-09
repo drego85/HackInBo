@@ -2,6 +2,14 @@
 
 Official Collection of Slides and Programs of HackInBo
 
+#### Diciannovesima Edizione 03-12-2022
+* Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro)
+* The firewall is dead, long live to the firewall! (Davide Annovazzi)
+* Could threat actors be downgrading their malware to evade detection? (Laura Varano)
+* Double your profit with these tools for active directory security (Andrea Pierini e Marco Magnaguagno)
+* How to break the Modbus protocol and do a PLC DoS (Omar Morando)
+* Antiphishing ed oltre: la protezione del brand e del dominio di posta (Raffaele Colavecchi)
+
 #### Diciottesima Edizione 28-05-2022
 
 * A deep dive into advanced Android banking Trojan campaigns (Federico Valentini e Francesco Iubatti) [SLIDES](./Slide/2022.05.28_Undicesima_Edizione/01_A_deep_dive_into_advanced_Android_banking_Trojan_campaigns.pdf)
