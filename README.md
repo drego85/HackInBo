@@ -8,7 +8,7 @@ Official Collection of Slides and Programs of HackInBo
 * Could threat actors be downgrading their malware to evade detection? (Laura Varano)
 * Double your profit with these tools for active directory security (Andrea Pierini e Marco Magnaguagno)
 * How to break the Modbus protocol and do a PLC DoS (Omar Morando) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/05_How_to_break_the_Modbus_protocol_and_do_a_PLC_DoS.pdf)
-* Antiphishing ed oltre: la protezione del brand e del dominio di posta (Raffaele Colavecchi)
+* Antiphishing ed oltre: la protezione del brand e del dominio di posta (Raffaele Colavecchi) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/06_Antiphishing_ed_oltre_la_protezione_del_brand_e_del_dominio_di_posta.pdf)
 
 #### Diciottesima Edizione 28-05-2022
 
