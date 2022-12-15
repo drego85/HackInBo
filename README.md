@@ -1,6 +1,6 @@
-# HackInBo
+# HackInBo®
 
-Official Collection of Slides and Programs of HackInBo
+Official Collection of Slides and Programs of HackInBo®
 
 #### Diciannovesima Edizione 03-12-2022
 * Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/01_Dentro_alveare_alla_ricerca_del_nettare_perduto.pdf)
