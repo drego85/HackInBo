@@ -2,6 +2,15 @@
 
 Official Collection of Slides and Programs of HackInBo®
 
+#### Ventesima Edizione 10-06-2023
+* IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura)
+* FIT - Tool di acquisizione forense di contenuti WEB (Francesca Pollicelli e Fabio Zito)
+* Anomaly detection and IP insights (Alessandra Bilardi)
+* Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni)
+* Tampering the RAM: a new way to break into any VM (Francesco Marano)
+* Scalable malware attribution with Malstream (Matteo Corradini)
+* Acquisition in the billions. Breaking cryptographic keys with fast SCA (Cristofaro Mune)
+
 #### Diciannovesima Edizione 03-12-2022
 * Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/01_Dentro_alveare_alla_ricerca_del_nettare_perduto.pdf)
 * The firewall is dead, long live to the firewall! (Davide Annovazzi) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/02_The_firewall_is_dead_long_live_to_the_firewall.pdf)
