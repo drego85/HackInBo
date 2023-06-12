@@ -6,7 +6,7 @@ Official Collection of Slides and Programs of HackInBo®
 * IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura)
 * FIT - Tool di acquisizione forense di contenuti WEB (Francesca Pollicelli e Fabio Zito)
 * Anomaly detection and IP insights (Alessandra Bilardi)
-* Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni)
+* Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/04_Intel_Owl_project_making_the_life_of_cyber_security_analysts_easier.pdf)
 * Tampering the RAM: a new way to break into any VM (Francesco Marano)
 * Scalable malware attribution with Malstream (Matteo Corradini)
 * Acquisition in the billions. Breaking cryptographic keys with fast SCA (Cristofaro Mune)
