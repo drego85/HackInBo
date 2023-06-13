@@ -3,7 +3,7 @@
 Official Collection of Slides and Programs of HackInBo®
 
 #### Ventesima Edizione 10-06-2023
-* IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura)
+* IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/01_IIS_Tilde_Enumeration_an_evergreen_vulnerability.pdf)
 * FIT - Tool di acquisizione forense di contenuti WEB (Francesca Pollicelli e Fabio Zito)
 * Anomaly detection and IP insights (Alessandra Bilardi)
 * Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/04_Intel_Owl_project_making_the_life_of_cyber_security_analysts_easier.pdf)
