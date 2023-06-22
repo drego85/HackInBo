@@ -5,7 +5,7 @@ Official Collection of Slides and Programs of HackInBo®
 #### Ventesima Edizione 10-06-2023
 * IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/01_IIS_Tilde_Enumeration_an_evergreen_vulnerability.pdf)
 * FIT - Tool di acquisizione forense di contenuti WEB (Francesca Pollicelli e Fabio Zito)
-* Anomaly detection and IP insights (Alessandra Bilardi)
+* Anomaly detection and IP insights (Alessandra Bilardi) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/03_Anomaly_detection_and_IP_insights.pdf)
 * Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/04_Intel_Owl_project_making_the_life_of_cyber_security_analysts_easier.pdf)
 * Tampering the RAM: a new way to break into any VM (Francesco Marano) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/05_Tampering_the_RAM_a_new_way_to_break_into_any_VM.pdf)
 * Scalable malware attribution with Malstream (Matteo Corradini) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/06_Scalable_malware_attribution_with_Malstream.pdf)
