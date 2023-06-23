@@ -9,7 +9,7 @@ Official Collection of Slides and Programs of HackInBo®
 * Intel Owl project: making the life of cyber security analysts easier (Matteo Lodi e Simone Berni) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/04_Intel_Owl_project_making_the_life_of_cyber_security_analysts_easier.pdf)
 * Tampering the RAM: a new way to break into any VM (Francesco Marano) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/05_Tampering_the_RAM_a_new_way_to_break_into_any_VM.pdf)
 * Scalable malware attribution with Malstream (Matteo Corradini) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/06_Scalable_malware_attribution_with_Malstream.pdf)
-* Acquisition in the billions. Breaking cryptographic keys with fast SCA (Cristofaro Mune)
+* Acquisition in the billions. Breaking cryptographic keys with fast SCA (Cristofaro Mune) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/07_Acquisition_in_the_billions_Breaking_cryptographic_keys_with_fast_SCA.pdf)
 
 #### Diciannovesima Edizione 03-12-2022
 * Dentro l'alveare: alla ricerca del nettare perduto (Riccardo Di Pietro) [SLIDES](./Slide/2022.12.03_Diciannovesima_Edizione/01_Dentro_alveare_alla_ricerca_del_nettare_perduto.pdf)
