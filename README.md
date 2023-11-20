@@ -4,7 +4,7 @@ Official Collection of Slides and Programs of HackInBo®
 
 
 #### Ventunesima Edizione 18-11-2023
-* DLL Sideloading: Aspetti Pratici e Threat Landscape (Nino Pellegrino)
+* DLL Sideloading: Aspetti Pratici e Threat Landscape (Gaetano Pellegrino)
 * From Infection to Exfiltration: A Deep Dive into ToddyCat's Intrusion Techniques (Giampaola Dedola)
 * Alchimia delle Cyberwarfare: (D)DoS e Botnet nell’odierno panorama dei conflitti digitali (Emanuele De Lucia)
 * Non-Traditional Attack Techniques (Rocco Sicilia)
