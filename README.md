@@ -2,6 +2,15 @@
 
 Official Collection of Slides and Programs of HackInBo®
 
+
+#### Ventunesima Edizione 18-11-2023
+* DLL Sideloading: Aspetti Pratici e Threat Landscape (Nino Pellegrino)
+* From Infection to Exfiltration: A Deep Dive into ToddyCat's Intrusion Techniques (Giampaola Dedola)
+* Alchimia delle Cyberwarfare: (D)DoS e Botnet nell’odierno panorama dei conflitti digitali (Emanuele De Lucia)
+* Non-Traditional Attack Techniques (Rocco Sicilia)
+* ScaiRansomware (Luca Antognarelli e Tommaso Olmastroni)
+
+
 #### Ventesima Edizione 10-06-2023
 * IIS Tilde Enumeration: an evergreen vulnerability (Michele Di Bonaventura) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/01_IIS_Tilde_Enumeration_an_evergreen_vulnerability.pdf)
 * FIT - Tool di acquisizione forense di contenuti WEB (Francesca Pollicelli e Fabio Zito) [SLIDES](./Slide/2023.06.10_Ventesima_Edizione/02_FIT_Tool_di_acquisizione_forense_di_contenuti_WEB.pdf)
