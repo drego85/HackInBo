@@ -4,11 +4,11 @@ Official Collection of Slides and Programs of HackInBo®
 
 
 #### Ventunesima Edizione 18-11-2023
-* DLL Sideloading: Aspetti Pratici e Threat Landscape (Gaetano Pellegrino)
-* From Infection to Exfiltration: A Deep Dive into ToddyCat's Intrusion Techniques (Giampaolo Dedola)
-* Alchimia delle Cyberwarfare: (D)DoS e Botnet nell’odierno panorama dei conflitti digitali (Emanuele De Lucia)
-* Non-Traditional Attack Techniques (Rocco Sicilia)
-* ScaiRansomware (Luca Antognarelli e Tommaso Olmastroni)
+* DLL Sideloading: Aspetti Pratici e Threat Landscape (Gaetano (Nino) Pellegrino) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/01_DLL_Sideloading_Aspetti_Pratici_e_Threat_Landscape.pdf)
+* From Infection to Exfiltration: A Deep Dive into ToddyCat's Intrusion Techniques (Giampaolo Dedola) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/02_From_Infection_to_Exfiltration_A_Deep_Dive_into_ToddyCat_s_Intrusion_Techniques.pdf)
+* Alchimia delle Cyberwarfare: (D)DoS e Botnet nell’odierno panorama dei conflitti digitali (Emanuele De Lucia) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/03_Alchimia_delle_Cyberwarfare-_DDoS_e_Botnet_nell_odierno_panorama_dei_conflitti_digitali.pdf)
+* Non-Traditional Attack Techniques (Rocco Sicilia) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/04_Non-Traditional_Attack_Techniques.pdf)
+* ScaiRansomware EDR BYPASS (Luca Antognarelli e Tommaso Olmastroni) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/05_ScaiRansomware_EDR_BYPASS.pdf)
 
 
 #### Ventesima Edizione 10-06-2023
