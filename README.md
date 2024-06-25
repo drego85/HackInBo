@@ -2,6 +2,12 @@
 
 Official Collection of Slides and Programs of HackInBo®
 
+#### Ventiduesima Edizione 08-06-2024
+- SCADAsploit: a command and control for OT. How to break an ICS system (Omar Morando)
+- Dobbiamo parlare di ETW (Giulia Q.)
+- Kitsune: One C2 to control them all (Joel Gámez Molina)
+- When dependabot is not enough: protecting our software supply chain (Edoardo Dusi)
+- Defeating modern Android Security measures (Aman Sachdev e Mudit Jaiswal)
 
 #### Ventunesima Edizione 18-11-2023
 * DLL Sideloading: Aspetti Pratici e Threat Landscape (Gaetano (Nino) Pellegrino) [SLIDES](./Slide/2023.11.18_Ventunesima_Edizione/01_DLL_Sideloading_Aspetti_Pratici_e_Threat_Landscape.pdf)
