@@ -4,9 +4,9 @@ Official Collection of Slides and Programs of HackInBo®
 
 #### Ventiduesima Edizione 08-06-2024
 - SCADAsploit: a command and control for OT. How to break an ICS system (Omar Morando)
-- Dobbiamo parlare di ETW (Giulia Q.)
-- Kitsune: One C2 to control them all (Joel Gámez Molina)
-- When dependabot is not enough: protecting our software supply chain (Edoardo Dusi)
+- Dobbiamo parlare di ETW (Giulia Q.) [SLIDES](./Slide/2024.06.08_Ventiduesima_Edizione/02_Dobbiamo_parlare_di_ETW.pdf)
+- Kitsune: One C2 to control them all (Joel Gámez Molina) [SLIDES](./Slide/2024.06.08_Ventiduesima_Edizione/03_Kitsune_One_C2_to_control_them_all.pdf)
+- When dependabot is not enough: protecting our software supply chain (Edoardo Dusi) [SLIDES](./Slide/2024.06.08_Ventiduesima_Edizione/04_When_dependabot_is_not_enough_protecting_our_software_supply_chain.pdf)
 - Defeating modern Android Security measures (Aman Sachdev e Mudit Jaiswal)
 
 #### Ventunesima Edizione 18-11-2023
