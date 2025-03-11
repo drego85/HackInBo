@@ -2,6 +2,13 @@
 
 Official Collection of Slides and Programs of HackInBo®
 
+### Ventitreesima Edizione 16-11-2024
+- Keeping the pace with attackers: storie di attacchi e tendenze di phishing emergenti (Davide Canali) [SLIDES](./Slide/2024.11.16_Ventitreesima_Edizione/01_Keeping_the_pace_with_attackers_storie_di_attacchi_e_tendenze_di_phishing_emergenti.pdf)
+- Stealth Domain Generation Algorithm (SDGA): Elevating Malware Stealth and Resilience Beyond Traditional DGA Methods (Rafael Salema Marques)
+- Applicazioni mobile: [in]sicurezza e supply chain (Denise Nanni e Gabriele D'Angelo) (./Slide/2024.11.16_Ventitreesima_Edizione/03_Applicazioni_mobile_in_sicurezza_e_supply_chain.pdf)
+- Offensive Operations as Code: Personal Journey in Innovating and Automating Cloud Infrastructure (Vito De Laurentis))
+- Skynet: Come l'AI (forse) conquisterà il mondo! (Marco Valleri)
+
 #### Ventiduesima Edizione 08-06-2024
 - SCADAsploit: a command and control for OT. How to break an ICS system (Omar Morando) [SLIDES](./Slide/2024.06.08_Ventiduesima_Edizione/01_SCADAsploit_a_command_and_control_for_OT_How_to_break_an_ICS_system.pdf)
 - Dobbiamo parlare di ETW (Giulia Q.) [SLIDES](./Slide/2024.06.08_Ventiduesima_Edizione/02_Dobbiamo_parlare_di_ETW.pdf)
