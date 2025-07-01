@@ -6,6 +6,13 @@
 Welcome to the official archive of HackInBo®, one of the largest cybersecurity conferences in Italy.
 Here you can find talks and slides from all past editions, covering topics like offensive/defensive security, malware, AI, and threat intelligence.
 
+### 24th Edition - 07-06-2025
+- Forensic WACE: strumento multi thread per l'Analisi Forense delle CHAT di WhatsApp. (Ugo Lopez, Alessio Palmieri, Daniele Monte)
+- Il gap di sicurezza dell'IA: le vulnerabilità specifiche delle APP GenAI. (Gabriele Zanoni)
+- I miei primi 25 anni (di Offensive Security) (Igor "KOBA" Falcomatà)
+- Now I See You: Pwning the Synology BC500 Camera (Emanuele Barbeno)
+- The Proxy Warfare: Unmasking Russian and Chinese Externalized Cyber Capabilities (Alixia Rutayisire)
+
 ### 23rd Edition - 16-11-2024
 
 - Keeping the pace with attackers: storie di attacchi e tendenze di phishing emergenti (Davide Canali) [📖 Slides](./slides/2024.11.16/01_Keeping_the_pace_with_attackers_storie_di_attacchi_e_tendenze_di_phishing_emergenti.pdf)
