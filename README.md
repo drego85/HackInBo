@@ -9,7 +9,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 ### 24th Edition - 07-06-2025
 - Forensic WACE: strumento multi thread per l'Analisi Forense delle CHAT di WhatsApp. (Ugo Lopez, Alessio Palmieri, Daniele Monte) [📖 Slides](./slides/2025.06.07/01_Forensic_WACE_strumento_multi_thread_per_l_Analisi_Forense_delle_CHAT_di_WhatsApp.pdf)
 - Il gap di sicurezza dell'IA: le vulnerabilità specifiche delle APP GenAI. (Gabriele Zanoni) [📖 Slides](./slides/2025.06.07/02_Il_gap_di_sicurezza_dell_IA_le_vulnerabilita_specifiche_delle_APP_GenAI.pdf)
-- I miei primi 25 anni (di Offensive Security) (Igor "KOBA" Falcomatà)
+- I miei primi 25 anni (di Offensive Security) (Igor "KOBA" Falcomatà) [📖 Slides](./slides/2025.06.07/03_I_miei_primi_25_anni_di_Offensive_Security.pdf)
 - Now I See You: Pwning the Synology BC500 Camera (Emanuele Barbeno) [📖 Slides](./slides/2025.06.07/04_Now_I_See_You_Pwning_the_Synology_BC500_Camera.pdf)
 - The Proxy Warfare: Unmasking Russian and Chinese Externalized Cyber Capabilities (Alixia Rutayisire) [📖 Slides](./slides/2025.06.07/05_The_Proxy_Warfare_Unmasking_Russian_and_Chinese_Externalized_Cyber_Capabilities.pdf)
 
