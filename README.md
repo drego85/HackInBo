@@ -6,7 +6,7 @@
 Welcome to the official archive of HackInBo®, one of the largest cybersecurity conferences in Italy.
 Here you can find talks and slides from all past editions, covering topics like offensive/defensive security, malware, AI, and threat intelligence.
 
-### 25h Edition - 15-11-2025
+### 25th Edition - 15-11-2025
 
 - Adventures of Wallet Hacking (Joe Grand)
 - VoIP Security: vulnerabilità e hardening (Davide Rasòli)
