@@ -6,6 +6,15 @@
 Welcome to the official archive of HackInBo®, one of the largest cybersecurity conferences in Italy.
 Here you can find talks and slides from all past editions, covering topics like offensive/defensive security, malware, AI, and threat intelligence.
 
+### 25h Edition - 15-11-2025
+
+- Adventures of Wallet Hacking (Joe Grand)
+- VoIP Security: vulnerabilità e hardening (Davide Rasòli)
+- Reverse engineering of the TriCore Aurix debug protocol (Enrico Pozzobon)
+- Hack and Defend (your) Open Source: Real Attacks, Real Tools, Real Insights (Roman Zhukov)
+- Fuji: la soluzione open source per la copia forense dei Mac con processori Intel e Apple Silicon (Andrea Lazzarotto)
+- Legitimate Until Proven Otherwise: Emerging Initial Access Techniques (Ettore Bordoni)
+
 ### 24th Edition - 07-06-2025
 - Forensic WACE: strumento multi thread per l'Analisi Forense delle CHAT di WhatsApp. (Ugo Lopez, Alessio Palmieri, Daniele Monte) [📖 Slides](./slides/2025.06.07/01_Forensic_WACE_strumento_multi_thread_per_l_Analisi_Forense_delle_CHAT_di_WhatsApp.pdf)
 - Il gap di sicurezza dell'IA: le vulnerabilità specifiche delle APP GenAI. (Gabriele Zanoni) [📖 Slides](./slides/2025.06.07/02_Il_gap_di_sicurezza_dell_IA_le_vulnerabilita_specifiche_delle_APP_GenAI.pdf)
