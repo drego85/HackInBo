@@ -9,7 +9,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 ### 25th Edition - 15-11-2025
 
 - Adventures of Wallet Hacking (Joe Grand) [Slides](./slides/2025.11.15/01_Adventures_of_Wallet_Hacking.pdf)
-- VoIP Security: vulnerabilità e hardening (Davide Rasòli)
+- VoIP Security: vulnerabilità e hardening (Davide Rasòli) [Slides](./slides/2025.11.15/02_VoIP_Security_vulnerabilita_e_hardening.pdf)
 - Reverse engineering of the TriCore Aurix debug protocol (Enrico Pozzobon) [Slides](./slides/2025.11.15/03_Reverse_engineering_of_the_TriCore_Aurix_debug_protocol.pdf) [Lab](https://github.com/epozzobon/tricore-things)
 - Hack and Defend (your) Open Source: Real Attacks, Real Tools, Real Insights (Roman Zhukov) [Slides](./slides/2025.11.15/04_Hack_and_Defend_your_Open_Source_Real_Attacks_Real_Tools_Real_Insights.pdf)
 - Fuji: la soluzione open source per la copia forense dei Mac con processori Intel e Apple Silicon (Andrea Lazzarotto)
