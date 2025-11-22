@@ -12,7 +12,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 - VoIP Security: vulnerabilità e hardening (Davide Rasòli) [Slides](./slides/2025.11.15/02_VoIP_Security_vulnerabilita_e_hardening.pdf)
 - Reverse engineering of the TriCore Aurix debug protocol (Enrico Pozzobon) [Slides](./slides/2025.11.15/03_Reverse_engineering_of_the_TriCore_Aurix_debug_protocol.pdf) [Lab](https://github.com/epozzobon/tricore-things)
 - Hack and Defend (your) Open Source: Real Attacks, Real Tools, Real Insights (Roman Zhukov) [Slides](./slides/2025.11.15/04_Hack_and_Defend_your_Open_Source_Real_Attacks_Real_Tools_Real_Insights.pdf)
-- Fuji: la soluzione open source per la copia forense dei Mac con processori Intel e Apple Silicon (Andrea Lazzarotto)
+- Fuji: la soluzione open source per la copia forense dei Mac con processori Intel e Apple Silicon (Andrea Lazzarotto) [Slides](./slides/2025.11.15/05_Fuji_la_soluzione_open_source_per_la_copia_forense_dei_Mac_con_processori_Intel_e_Apple_Silicon.pdf)
 - Legitimate Until Proven Otherwise: Emerging Initial Access Techniques (Ettore Bordoni)
 
 ### 24th Edition - 07-06-2025
