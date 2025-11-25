@@ -28,7 +28,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 - Stealth Domain Generation Algorithm (SDGA): Elevating Malware Stealth and Resilience Beyond Traditional DGA Methods (Rafael Salema Marques)
 - Applicazioni mobile: [in]sicurezza e supply chain (Denise Nanni e Gabriele D'Angelo) [Slides](./slides/2024.11.16/03_Applicazioni_mobile_in_sicurezza_e_supply_chain.pdf)
 - Offensive Operations as Code: Personal Journey in Innovating and Automating Cloud Infrastructure (Vito De Laurentis)
-- Skynet: Come l'AI (forse) conquisterà il mondo! (Marco Valleri)
+- Skynet: Come l'AI (forse) conquisterà il mondo! (Marco Valleri) [Slides](./slides/2024.11.16/05_Skynet_Come_ l_AI_forse_conquistera_il_mondo.pdf)
 
 ### 22nd Edition - 08-06-2024
 
