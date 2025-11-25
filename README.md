@@ -117,7 +117,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 ### 13th Edition - 09-11-2019
 
 - Tsurugi Linux e l'evoluzione del panorama della Digital Forensics and Incident Response Distribution (Massimiliano Dal Cero - Giovanni Rattaro - Marco Giorgi - Antonio Broi) [Slides](./slides/2019.11.09/01_Tsurugi_Linux_e_l'evoluzione_del_panorama_della_Digital_Forensics_and_Incident_Response_Distribution.pdf)
-- Buffer Overflow Demystified (Angelo Dell'Aera) [SLIDES PDF](./slides/2019.11.09/02_Buffer_Overflow_Demystified.pdf) - [SLIDES Animate](./slides/2019.11.09/02_Buffer_Overflow_Demystified.key)
+- Buffer Overflow Demystified (Angelo Dell'Aera) [Slides PDF](./slides/2019.11.09/02_Buffer_Overflow_Demystified.pdf) - [Slides Animate](./slides/2019.11.09/02_Buffer_Overflow_Demystified.key)
 - Awareness by Design (Marilisa Del Vecchio) [Slides](./slides/2019.11.09/03_Awareness_by_Design.pdf)
 - The only way to survive is to automate your SOC (Roberto Sponchioni) [Slides](./slides/2019.11.09/04_The_only_way_to_survive_is_to_automate_your_SOC.pdf)
 - The web is broken: let's fix it (Michele Spagnuolo - Roberto Clapis) [Slides](./slides/2019.11.09/05_The_web_is_broken__let_s_fix_it.pdf)
@@ -204,8 +204,8 @@ Here you can find talks and slides from all past editions, covering topics like 
 - Il telefono, la tua voce: Voip e sicurezza (Michele Garribba) [Slides](./slides/2015.10.17/02_Il_telefono,_la_tua_voce_Voip_e_sicurezza.pdf)
 - The PT Conundrum (and its antisec formulation) (Matteo Falsetti) [Slides](./slides/2015.10.17/03_The_PT_Conundrum.pdf)
 - Smart Grid: Privacy e Sicurezza nella Rete (elettrica) (Giogio Pedrazzi) [Slides](./slides/2015.10.17/04_Smart_Grid:_Privacy_e_Sicurezza_nella_Rete.pdf)
-- La sicurezza dei sistemi safety-critical (Andrea Barizani) - [YOUTUBE](https://www.youtube.com/watch?v=TXQM_rakuxs) [Slides](./slides/2015.10.17/05_La_sicurezza_dei_sistemi_safety-critical.pdf)
-- Data and Network Security in iOS (Andrey Belenko) - [YOUTUBE](https://www.youtube.com/watch?v=R6-YqiXQMX8) [Slides](./slides/2015.10.17/06_Data_and_Network_Security_in_iOS.pdf)
+- La sicurezza dei sistemi safety-critical (Andrea Barizani) - [YouTube](https://www.youtube.com/watch?v=TXQM_rakuxs) [Slides](./slides/2015.10.17/05_La_sicurezza_dei_sistemi_safety-critical.pdf)
+- Data and Network Security in iOS (Andrey Belenko) - [YouTube](https://www.youtube.com/watch?v=R6-YqiXQMX8) [Slides](./slides/2015.10.17/06_Data_and_Network_Security_in_iOS.pdf)
 - La prima arte marziale digitale (Zanshin Tech)
 - Tavola Rotonda a cui partecipa Giovanni Ziccardi
 - Moderatrice dell'intera giornata Yvette Agostini
@@ -238,8 +238,8 @@ Here you can find talks and slides from all past editions, covering topics like 
 - Grr-osso Guaio a Chinatown (Pasquale Stirparo) [Slides](./slides/2014.03.05/02_Grr-osso_Guaio_a_Chinatown.pdf)
 - La Strategia Italiana in Materia di Cyber Security (Stefano Mele) [Slides](./slides/2014.03.05/03_La_Strategia_Italiana_in_Materia_di_Cyber_Security.pdf)
 - Cyberpiatto del Giorno (Francesco Picasso) [Slides](./slides/2014.03.05/04_Cyber_Piatto_del_Giorno.pdf)
-- Uso, ma specialmente Abuso, delle Tecniche di Investigazione e Sorveglianza Digitale (Andrea Ghirardini) - Slide Assenti
-- Cinquanta Sfumature di Cyber (Corrado Giustozzi) - Slide Assenti
+- Uso, ma specialmente Abuso, delle Tecniche di Investigazione e Sorveglianza Digitale (Andrea Ghirardini) - No Slides
+- Cinquanta Sfumature di Cyber (Corrado Giustozzi) - No Slides
 - Tavola Rotonda a cui partecipano Raul Chiesa e Elena Bassoli
 - Moderatrice dell'intera giornata Yvette Agostini
 
@@ -248,7 +248,7 @@ Here you can find talks and slides from all past editions, covering topics like 
 - Le nuove armi digitali. Aziende ed Enti governativi sono pronti? (Gianni Amato) [Slides](./slides/2013.09.20/01_Le_nuove_armi_digitali._Aziende_ed_Enti_governativi_sono_pronti.pdf)
 - Hacking Wifi for Fun and Profit (Gianluca Ghettini) [Slides](./slides/2013.09.20/02_Hacking_Wifi_for_Fun_and_Profit.pdf)
 - Di chi sono i miei dati? (Paolo Dal Checco) [Slides](./slides/2013.09.20/03_Di_chi_sono_i_miei_dati.pdf)
-- CyberCrime: come un'azienda può andare in scacco matto (Emanuele Gentili) - Slide Assenti (non dovrebbe avere autorizzato la diffusione)
+- CyberCrime: come un'azienda può andare in scacco matto (Emanuele Gentili) - No Slides (the presenter didn't authorize disclosure)
 - Basta Hacker in TV! (Alessio Pennasilico) [Slides](./slides/2013.09.20/05_Basta_Hacker_in_TV.pdf)
 - Moderatrice dell'intera giornata Yvette Agostini
 
